@@ -1,5 +1,4 @@
-Chapter 3: Environmental Challenges and the Role of AI
-======================================================
+
 
 In this chapter, we will explore some of the most pressing environmental challenges facing our planet today, and how artificial intelligence can play a critical role in addressing them.
 

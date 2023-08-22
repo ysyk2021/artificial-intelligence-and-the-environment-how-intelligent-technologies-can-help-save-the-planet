@@ -1,5 +1,4 @@
-Big Data Analytics
-========================================================================================
+
 
 Big data analytics is a powerful tool for environmental sustainability. The vast amounts of environmental data that are generated every day can be analyzed and interpreted using AI technologies to identify patterns, trends, and insights that can inform decision-making processes and support sustainable practices.
 

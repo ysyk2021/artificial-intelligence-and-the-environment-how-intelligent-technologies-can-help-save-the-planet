@@ -1,5 +1,4 @@
-Types of Artificial Intelligence
-====================================================================================
+
 
 Artificial intelligence (AI) is a broad field that encompasses a wide range of technologies and techniques. In this chapter, we'll explore some of the major types of AI and their applications in environmental sustainability.
 

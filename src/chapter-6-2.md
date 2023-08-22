@@ -1,5 +1,4 @@
-Microsoft's AI for Earth Program
-===================================================================================================================
+
 
 Microsoft's AI for Earth program is an ambitious initiative aimed at using AI and machine learning technologies to promote environmental sustainability. Launched in 2017, the program provides grants and resources to individuals and organizations working on environmental initiatives around the world.
 

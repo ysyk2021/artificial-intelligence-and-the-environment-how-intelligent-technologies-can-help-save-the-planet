@@ -1,5 +1,4 @@
-Recommendations for Governments, Industries and Communities
-===================================================================================================================================================
+
 
 As we have explored throughout this book, artificial intelligence (AI) has great potential to contribute to environmental sustainability efforts. However, realizing this potential will require action from a range of stakeholders, including governments, industries, and communities. In this chapter, we will provide some recommendations for how these stakeholders can contribute to advancing the use of AI in environmental sustainability.
 

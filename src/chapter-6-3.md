@@ -1,10 +1,7 @@
-The Ocean Cleanup Initiative
-===============================================================================================================
+
 
 In this chapter, we will explore the work of The Ocean Cleanup Initiative in using artificial intelligence (AI) to address the challenge of plastic pollution in our oceans.
 
-Introduction
-------------
 
 The Ocean Cleanup Initiative was founded in 2013 with the goal of developing advanced technologies to rid the world's oceans of plastic waste. With the use of innovative AI-powered tools, the organization has made significant progress towards achieving this goal.
 

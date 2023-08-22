@@ -1,10 +1,8 @@
-Google's Project Sunroof
-===========================================================================================================
+
 
 In this chapter, we will explore the work of Google's Project Sunroof, which has used artificial intelligence (AI) to make solar energy more accessible and affordable for homeowners.
 
-Introduction
-------------
+
 
 Launched in 2015, Project Sunroof is a Google initiative that uses machine learning algorithms to map rooftop solar potential and estimate potential energy savings for individual households. By providing homeowners with personalized recommendations and insights, the project aims to help make solar energy more accessible and affordable.
 

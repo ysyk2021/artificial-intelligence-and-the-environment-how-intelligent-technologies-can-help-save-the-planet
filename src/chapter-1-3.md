@@ -1,5 +1,4 @@
-Objectives and Scope of the Book
-=========================================================
+
 
 Objectives of the Book
 ----------------------
