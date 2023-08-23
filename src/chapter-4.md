@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore some of the key technologies and tools available for advancing environmental sustainability efforts through the intelligent application of data, analytics, and automation.
 
 IoT and Sensor Networks

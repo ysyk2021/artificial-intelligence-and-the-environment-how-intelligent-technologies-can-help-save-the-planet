@@ -1,5 +1,4 @@
 
-
 Robotics and automation are integral technologies for achieving environmental sustainability goals. With the ability to perform repetitive tasks with precision and accuracy, robotics and automation can aid in reducing energy consumption and waste generation, improving resource management, and supporting sustainable manufacturing practices.
 
 The Importance of Robotics and Automation in Environmental Sustainability

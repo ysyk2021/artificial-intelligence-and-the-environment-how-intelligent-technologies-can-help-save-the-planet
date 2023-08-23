@@ -1,5 +1,4 @@
 
-
 Blockchain technology is a decentralized digital ledger system that allows for secure and transparent tracking of transactions. This technology has the potential to enhance environmental sustainability efforts by enabling more efficient and effective tracking and management of environmental resources and assets.
 
 The Importance of Blockchain in Environmental Sustainability

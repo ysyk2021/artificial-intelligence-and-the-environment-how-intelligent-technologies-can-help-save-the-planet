@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to revolutionize many aspects of environmental sustainability. In this chapter, we will explore the fundamentals of AI, including its definition, history and development, types, key concepts and techniques, as well as applications and limitations in environmental protection.
 
 Definition, History and Development of Artificial Intelligence

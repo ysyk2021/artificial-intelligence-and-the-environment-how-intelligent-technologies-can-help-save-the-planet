@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore some success stories and case studies of the application of artificial intelligence (AI) in environmental sustainability. Specifically, we will examine the work of NASA's Earth Science Division in using AI to support a range of environmental monitoring and prediction efforts.
 
 Monitoring and Predicting Wildfires

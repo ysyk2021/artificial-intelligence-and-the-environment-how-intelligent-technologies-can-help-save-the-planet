@@ -1,5 +1,4 @@
 
-
 Cloud computing is a technology that has the potential to revolutionize the way we approach environmental sustainability. In this chapter, we'll explore the use of cloud computing in environmental sustainability and its potential benefits.
 
 What is Cloud Computing?

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a technology that enables machines to perform tasks that would typically require human intelligence, such as recognizing speech, making decisions, and solving problems. In this chapter, we'll explore the definition, history, and development of AI.
 
 Definition of Artificial Intelligence

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize the way we approach environmental sustainability. In this chapter, we'll explore the key concepts and techniques in AI that underpin this technology.
 
 Machine Learning

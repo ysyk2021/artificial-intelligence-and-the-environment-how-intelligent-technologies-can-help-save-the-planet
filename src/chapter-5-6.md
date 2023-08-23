@@ -1,5 +1,4 @@
 
-
 One of the most important applications of AI in environmental sustainability is in disaster monitoring and response. Natural disasters, such as hurricanes, earthquakes, and floods, are becoming more frequent and severe, with significant impacts on both human populations and the environment. By harnessing the power of AI, we can improve our ability to predict, prevent, and respond to these disasters.
 
 Predicting Natural Disasters with AI

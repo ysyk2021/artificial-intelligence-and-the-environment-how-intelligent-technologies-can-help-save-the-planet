@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to transform the way we approach environmental sustainability. In this chapter, we'll explore some of the major applications of AI in environmental sustainability and their potential benefits.
 
 Energy Efficiency

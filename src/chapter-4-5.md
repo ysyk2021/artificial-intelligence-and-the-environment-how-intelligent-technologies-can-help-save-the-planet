@@ -1,5 +1,4 @@
 
-
 Machine learning and deep learning are two powerful intelligent technologies that have the potential to revolutionize environmental sustainability efforts. In this chapter, we'll explore how these technologies can be used to help save the planet.
 
 Machine Learning

@@ -1,5 +1,4 @@
 
-
 Remote sensing and earth observation are critical components of environmental sustainability. These technologies enable us to monitor changes in the environment, track ecosystem health, and predict and prevent natural disasters. AI technologies have the potential to enhance these capabilities by improving data analysis and interpretation, enabling more accurate predictions, and supporting decision-making processes.
 
 The Role of Remote Sensing and Earth Observation

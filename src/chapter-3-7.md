@@ -1,5 +1,4 @@
 
-
 Environmental factors have a significant impact on human health and well-being, with pollution, climate change, and natural disasters all contributing to adverse health outcomes. Artificial intelligence (AI) technologies have the potential to enhance public health monitoring efforts by providing real-time data on environmental conditions and supporting targeted intervention strategies.
 
 The Importance of AI in Public Health and Well-being
